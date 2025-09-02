@@ -1,0 +1,10 @@
+Pushbutton	4
+LED	1
+Potentiometer	1
+Buzzer	1
+ATtiny85	1
+Switch	1
+5V Regulator	1
+Resistor (330Ω)	1
+Resistor (1kΩ)	5
+Resistor (10kΩ)	1
